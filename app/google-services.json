@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "907463595871",
+    "project_id": "kkl-kbsc",
+    "storage_bucket": "kkl-kbsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907463595871:android:78c83ed057c70f0abf48ea",
+        "android_client_info": {
+          "package_name": "com.example.suli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907463595871-spnb91ocu8la428ge65h6r766gcbsu1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suli",
+            "certificate_hash": "b10d7123baf8c2c19ded2df3cd58d6ddc713b7bc"
+          }
+        },
+        {
+          "client_id": "907463595871-0474bf8bstlo1dg28eja630pd0qgftf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_lgvCn6DD_iHhuXcpO4W69xeCk-WixXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907463595871-0474bf8bstlo1dg28eja630pd0qgftf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
